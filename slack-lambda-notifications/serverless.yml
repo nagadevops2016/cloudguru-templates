@@ -27,5 +27,5 @@ functions:
           path: /notify
           method: get
     environment:
-      SLACK_WEBHOOK_URL: #Your Slack Webhook Url
-      SLACK_CHANNEL_NAME: #Your Slack channel name for notifications
+      SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
+      SLACK_CHANNEL_NAME: aws-lambda
